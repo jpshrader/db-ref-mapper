@@ -86,3 +86,5 @@ node_modules/
 
 # Local History for Visual Studio
 .localhistory/
+
+.idea/
